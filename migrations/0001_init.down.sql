@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS responses;
+DROP TABLE IF EXISTS questions;
+DROP TABLE IF EXISTS forms;

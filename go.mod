@@ -1,4 +1,4 @@
-module github.com/albert/mimir-backend
+module github.com/albertnanda19/mimir-backend
 
 go 1.25.0
 
